@@ -5,6 +5,8 @@
 <h3> Certified Kubernetes Administrations</h3>
 <h3> Docker Certfied Associates</h3>
 <h3> Nagios Certified Professional</h3>
+<h3> RedHat Certified in Ansible Automation</h3>
+
 
 
 
